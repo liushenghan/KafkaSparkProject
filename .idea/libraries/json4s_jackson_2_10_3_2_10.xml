@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="json4s-jackson_2.10-3.2.10">
+    <CLASSES>
+      <root url="jar://C:/myprogram/usablejar/json4s-jackson_2.10-3.2.10.jar!/" />
+      <root url="jar://C:/myprogram/usablejar/json4s-native_2.10-3.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

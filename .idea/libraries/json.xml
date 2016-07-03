@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="json">
+    <CLASSES>
+      <root url="file://C:/myprogram/usablejar/json" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/myprogram/usablejar/json" recursive="false" />
+  </library>
+</component>
